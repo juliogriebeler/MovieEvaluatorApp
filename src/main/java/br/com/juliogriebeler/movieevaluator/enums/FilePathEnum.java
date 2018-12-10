@@ -1,7 +1,8 @@
-package br.com.juliogriebeler.movieevaluator.constants;
+package br.com.juliogriebeler.movieevaluator.enums;
 
 public enum FilePathEnum {
 	
+		LOCAL_NAME_BASIC("C:\\Users\\jfgriebeler\\Documents\\workspace_sts\\MovieEvaluatorApp\\src\\main\\resources\\data.tsv"),
 	    NAME_BASICS("https://datasets.imdbws.com/name.basics.tsv.gz"),
 	    TITLE_AKAS("https://datasets.imdbws.com/title.akas.tsv.gz"),
 	    TITLE_BASICS("https://datasets.imdbws.com/title.basics.tsv.gz"),

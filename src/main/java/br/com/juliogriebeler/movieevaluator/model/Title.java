@@ -1,6 +1,6 @@
-package br.com.juliogriebeler.movieevaluator.dto;
+package br.com.juliogriebeler.movieevaluator.model;
 
-public class TitleDTO {
+public class Title {
 	// titleId ordering title region language types attributes isOriginalTitle
 	private Long titleId;
 	private Long ordering;
